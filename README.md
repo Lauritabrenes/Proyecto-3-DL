@@ -1,1 +1,1 @@
-# Proyecto-3-dise-o-logico
+# Proyecto 3 Diseño lógico
